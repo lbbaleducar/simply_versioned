@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+New HUB Cloud Training docs page (#8174)
