@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
