@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
