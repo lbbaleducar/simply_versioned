@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Add YOLOv8 LibTorch C++ inference example (#7090)
