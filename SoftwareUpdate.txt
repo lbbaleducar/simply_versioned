@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
